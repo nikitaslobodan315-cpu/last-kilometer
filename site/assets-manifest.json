@@ -1,0 +1,303 @@
+{
+  "version": 1,
+  "gameScriptSha256": "72e6720371867a39169e99b4a6285735427216c3a45b79207858f146b6379e7f",
+  "assetCount": 42,
+  "totalAssetBytes": 93359166,
+  "htmlBytes": 2157152,
+  "entries": [
+    {
+      "group": "world-binary",
+      "key": "man",
+      "path": "assets/world-binary-man-0311415e40ef.bin",
+      "bytes": 1275102,
+      "sha256": "0311415e40ef63c4e4f75567cfde78f2f02bfef6db375fd34da486a3b2bc6c97"
+    },
+    {
+      "group": "world-binary",
+      "key": "anya-fixed",
+      "path": "assets/world-binary-anya-fixed-38e1e307c6ad.bin",
+      "bytes": 637938,
+      "sha256": "38e1e307c6adba3d3a4ca8b6b0184795f8243c7c27619672229c6addc7aa7029"
+    },
+    {
+      "group": "world-binary",
+      "key": "dog",
+      "path": "assets/world-binary-dog-e29a1efb3321.bin",
+      "bytes": 2723378,
+      "sha256": "e29a1efb332114f976270ce0408205963859c5da55e375a92902b7a2a2f888f0"
+    },
+    {
+      "group": "world-binary",
+      "key": "zombie",
+      "path": "assets/world-binary-zombie-e6ca9e5f2d2e.bin",
+      "bytes": 610250,
+      "sha256": "e6ca9e5f2d2ebcaf1064abf22e7a23bc277c57eb62d2ad270c1ee882759033a0"
+    },
+    {
+      "group": "world-binary",
+      "key": "forest",
+      "path": "assets/world-binary-forest-7e9958ff593e.bin",
+      "bytes": 2989010,
+      "sha256": "7e9958ff593eaad0591000bf18d90bc986871bb6fe2ed20ba4379d4c51b259b2"
+    },
+    {
+      "group": "world-binary",
+      "key": "pine",
+      "path": "assets/world-binary-pine-e99c98c00a73.bin",
+      "bytes": 2245506,
+      "sha256": "e99c98c00a73d51d1a336fb99855276ff5b3e4dc31722c8449316316f2708a26"
+    },
+    {
+      "group": "world-binary",
+      "key": "vesta",
+      "path": "assets/world-binary-vesta-84bfb14058fd.bin",
+      "bytes": 2130281,
+      "sha256": "84bfb14058fdbc6eb2cd603338bad82fa876bfdafc8a956de3fbfbfdf153f79a"
+    },
+    {
+      "group": "world-binary",
+      "key": "vaz",
+      "path": "assets/world-binary-vaz-48cc4d70c551.bin",
+      "bytes": 4942216,
+      "sha256": "48cc4d70c551f7d957c455a04c9e4ed9defad2dfe56b10b98a6e59f05436238c"
+    },
+    {
+      "group": "world-binary",
+      "key": "mercedes",
+      "path": "assets/world-binary-mercedes-36f6a8655f7c.bin",
+      "bytes": 7379875,
+      "sha256": "36f6a8655f7c15fb7ec575efd1261a7d4a9270945a04b42e3b58904b21a5a533"
+    },
+    {
+      "group": "world-binary",
+      "key": "grass",
+      "path": "assets/world-binary-grass-32fbb44df380.bin",
+      "bytes": 30339,
+      "sha256": "32fbb44df380240e3dd2c2fe9313bb7f99aa189a6d89a1fc40897f657fcd58fc"
+    },
+    {
+      "group": "world-binary",
+      "key": "pantsir",
+      "path": "assets/world-binary-pantsir-ffc5cd793945.bin",
+      "bytes": 3553315,
+      "sha256": "ffc5cd7939450064b89304fde07a7474f4507b5440466c014dd03cfe00cd7109"
+    },
+    {
+      "group": "world-binary",
+      "key": "zil",
+      "path": "assets/world-binary-zil-84f81a4e6d47.bin",
+      "bytes": 1548579,
+      "sha256": "84f81a4e6d479abbefba4d671d535fdb6ad48912f601517c34e975ac5163944b"
+    },
+    {
+      "group": "world-binary",
+      "key": "tank",
+      "path": "assets/world-binary-tank-5d8c358c25e9.bin",
+      "bytes": 2231678,
+      "sha256": "5d8c358c25e9760e70c7d7993d43ee96d65bf9ce53f148df84d2750f1151a76d"
+    },
+    {
+      "group": "world-binary",
+      "key": "btr",
+      "path": "assets/world-binary-btr-1e9e75bada49.bin",
+      "bytes": 1377833,
+      "sha256": "1e9e75bada49bb8976881355d6021a3d50b536998c450f5e815b66b44823a890"
+    },
+    {
+      "group": "world-binary",
+      "key": "towerA",
+      "path": "assets/world-binary-towerA-0bc5e258a168.bin",
+      "bytes": 10439704,
+      "sha256": "0bc5e258a1682e6fa8ae438b695e7eac5963e471add1123a4280c84e5ed69470"
+    },
+    {
+      "group": "world-binary",
+      "key": "towerB",
+      "path": "assets/world-binary-towerB-ea942d614993.bin",
+      "bytes": 253649,
+      "sha256": "ea942d614993813377b19e04fd8913d92ce17cc3d6c6626e72c135cc5fb99734"
+    },
+    {
+      "group": "world-binary",
+      "key": "farm-shop",
+      "path": "assets/world-binary-farm-shop-856356cbdead.bin",
+      "bytes": 2417214,
+      "sha256": "856356cbdeadca54fba08ca43bd0cd77af9b992ca6fb7d7f9c5a238cf3bba9e2"
+    },
+    {
+      "group": "world-binary",
+      "key": "bakery",
+      "path": "assets/world-binary-bakery-c506c100eb11.bin",
+      "bytes": 1159088,
+      "sha256": "c506c100eb11bac7e8cc5c85fa0f530b35bbe4d83fd7d1b7b657364003403f27"
+    },
+    {
+      "group": "world-binary",
+      "key": "lukoil",
+      "path": "assets/world-binary-lukoil-2256da98feed.bin",
+      "bytes": 3739281,
+      "sha256": "2256da98feeda0c35a31bb3fbf1ce53a8f95f604fca0b4f071827e1fe8b95198"
+    },
+    {
+      "group": "world-binary",
+      "key": "plane",
+      "path": "assets/world-binary-plane-b63bd3fb9c32.bin",
+      "bytes": 4115448,
+      "sha256": "b63bd3fb9c32edfff2f7bf423dc712ba7aa9aab5536692a6acdc158ea08b0901"
+    },
+    {
+      "group": "world-binary",
+      "key": "cloud",
+      "path": "assets/world-binary-cloud-fb0827d7ef83.bin",
+      "bytes": 915615,
+      "sha256": "fb0827d7ef838ec446075fa2ae5bf49676025dea564b658914cfbfdfdeef0fff"
+    },
+    {
+      "group": "world-binary",
+      "key": "airport",
+      "path": "assets/world-binary-airport-9db2216ae6ab.bin",
+      "bytes": 15497670,
+      "sha256": "9db2216ae6ab2c67ff81e849d5ea110c7b6c69b627f6a2fd5f3249ef00247877"
+    },
+    {
+      "group": "world-binary",
+      "key": "bus-stop",
+      "path": "assets/world-binary-bus-stop-52be82ad5ddb.bin",
+      "bytes": 974827,
+      "sha256": "52be82ad5ddbe2c88221c7a4f6b68e85f8f38f973b7151a9196564c9198fdd6b"
+    },
+    {
+      "group": "recorded-audio",
+      "key": "idle",
+      "path": "assets/recorded-audio-idle-475c46b75f3b.bin",
+      "bytes": 1140927,
+      "sha256": "475c46b75f3b70c9b5e742fe60c9b2c195a5dcedc967087f5e8c0b28edd2a794"
+    },
+    {
+      "group": "recorded-audio",
+      "key": "endingMusic",
+      "path": "assets/recorded-audio-endingMusic-5557814f2a65.bin",
+      "bytes": 1167190,
+      "sha256": "5557814f2a6577b3c16e406a530f9aa4931ac062a06b46cde6e6bfa3b30d62f2"
+    },
+    {
+      "group": "recorded-audio",
+      "key": "zombie1",
+      "path": "assets/recorded-audio-zombie1-dd6e9291f2bf.bin",
+      "bytes": 21811,
+      "sha256": "dd6e9291f2bf3f916a2b85f4a80afe8787a3df66205bd88cb5daeb76f96456d7"
+    },
+    {
+      "group": "recorded-audio",
+      "key": "zombie2",
+      "path": "assets/recorded-audio-zombie2-5c2b6ebc41bc.bin",
+      "bytes": 21126,
+      "sha256": "5c2b6ebc41bc8a57c16e4d7475f7b3fd196e44a9d787371ed001fa3d1df2df85"
+    },
+    {
+      "group": "recorded-audio",
+      "key": "zombie3",
+      "path": "assets/recorded-audio-zombie3-30b05b9f16ef.bin",
+      "bytes": 22827,
+      "sha256": "30b05b9f16efc2faaecb22552a821aae522ed0b0d5639173e199e56ed40dacca"
+    },
+    {
+      "group": "recorded-audio",
+      "key": "zombie4",
+      "path": "assets/recorded-audio-zombie4-38d663ff3138.bin",
+      "bytes": 39242,
+      "sha256": "38d663ff313830139b848e0dcd2b346ddc7309a44ec51f100565973aa253c852"
+    },
+    {
+      "group": "airport-layout",
+      "key": "faces",
+      "path": "assets/airport-layout-faces-eea90d501351.bin",
+      "bytes": 2893733,
+      "sha256": "eea90d501351ce4d00e747bcd417284c4000f0cfbbcf079b23de7308bd01e7f3"
+    },
+    {
+      "group": "airport-layout",
+      "key": "ground",
+      "path": "assets/airport-layout-ground-dd516c1f9841.bin",
+      "bytes": 113985,
+      "sha256": "dd516c1f98412a9ce937339490dcfd198f2d3658154d2dfec1ad3def0c1f57e0"
+    },
+    {
+      "group": "graphics-binary",
+      "key": "brick-roughness",
+      "path": "assets/graphics-binary-brick-roughness-34c2bf930709.bin",
+      "bytes": 32324,
+      "sha256": "34c2bf930709c781571f7d6be1193750a3e38838f10ee2284011e4b7defa4f7c"
+    },
+    {
+      "group": "graphics-binary",
+      "key": "concrete-normal",
+      "path": "assets/graphics-binary-concrete-normal-ad8c58616e6d.bin",
+      "bytes": 299080,
+      "sha256": "ad8c58616e6d78f87ab194004d85adea25b416833421d67da05431b45811e818"
+    },
+    {
+      "group": "graphics-binary",
+      "key": "concrete-roughness",
+      "path": "assets/graphics-binary-concrete-roughness-81061e6f7b4f.bin",
+      "bytes": 52164,
+      "sha256": "81061e6f7b4fc5f9e3ec229652ceca8e9943e8832b0d0ffc9c89fc038bc63309"
+    },
+    {
+      "group": "graphics-binary",
+      "key": "brick-normal",
+      "path": "assets/graphics-binary-brick-normal-7b9cb97f13b5.bin",
+      "bytes": 383894,
+      "sha256": "7b9cb97f13b5269fb3c571beb6cfecfd9dce9e905f91f8c6a607a92cec7960b0"
+    },
+    {
+      "group": "graphics-binary",
+      "key": "asphalt-roughness",
+      "path": "assets/graphics-binary-asphalt-roughness-40e66fb84cb6.bin",
+      "bytes": 106888,
+      "sha256": "40e66fb84cb60098c414b2123ce70db0eebcb6320df16a9d0397e8510b2233b6"
+    },
+    {
+      "group": "graphics-binary",
+      "key": "brick-color",
+      "path": "assets/graphics-binary-brick-color-bb191937826b.bin",
+      "bytes": 247674,
+      "sha256": "bb191937826b8e89d852b7df2bffe8655ca48289af02d24ea3e27b76045e81bf"
+    },
+    {
+      "group": "graphics-binary",
+      "key": "concrete-color",
+      "path": "assets/graphics-binary-concrete-color-882a8ee2a220.bin",
+      "bytes": 453200,
+      "sha256": "882a8ee2a2203894a1aa9dbadb9c23d37e897d7f90d9970aadc3c317c619c759"
+    },
+    {
+      "group": "graphics-binary",
+      "key": "asphalt-color",
+      "path": "assets/graphics-binary-asphalt-color-a245c20e20a9.bin",
+      "bytes": 444616,
+      "sha256": "a245c20e20a957ff25e913d3118a864d28a6fd3a728e3539f6ef3c270d4acea8"
+    },
+    {
+      "group": "graphics-binary",
+      "key": "asphalt-normal",
+      "path": "assets/graphics-binary-asphalt-normal-336b07e35835.bin",
+      "bytes": 593700,
+      "sha256": "336b07e3583559836fd29e6bf7eeb3a1947500052ac5e7628578b068389dd4a4"
+    },
+    {
+      "group": "graphics-binary",
+      "key": "forest-floor",
+      "path": "assets/graphics-binary-forest-floor-d2a6fdc18675.bin",
+      "bytes": 322078,
+      "sha256": "d2a6fdc18675d2c3306ed695742d9813242afaf7de19f0957514f9c977bfc45f"
+    },
+    {
+      "group": "player-car",
+      "key": "porsche",
+      "path": "assets/player-car-porsche-4b1f2e7f4393.bin",
+      "bytes": 11814911,
+      "sha256": "4b1f2e7f4393ffa75d54359ce6b10657e5cad11fd851f0c48544fd2cc0b45afe"
+    }
+  ]
+}

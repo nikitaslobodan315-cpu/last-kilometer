@@ -1,0 +1,405 @@
+man
+Model Information:
+* title:	Man
+* source:	https://sketchfab.com/3d-models/man-d91475da67924946b3b454daa17639a3
+* author:	Mcyborg (https://sketchfab.com/Mcyborg)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Man" (https://sketchfab.com/3d-models/man-d91475da67924946b3b454daa17639a3) by Mcyborg (https://sketchfab.com/Mcyborg) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+
+----------------------
+
+anya
+Model Information:
+* title:	Young Woman
+* source:	https://sketchfab.com/3d-models/young-woman-1c0a69b18c444cc6b3be45dc688ac469
+* author:	Trident.AI (https://sketchfab.com/Trident.AI)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works
+
+
+----------------------
+
+dog
+Model Information:
+* title:	Labrador Dog
+* source:	https://sketchfab.com/3d-models/labrador-dog-1f56cfbab07e4fe49b5d9e521c82073a
+* author:	kenchoo (https://sketchfab.com/kenchoo)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Labrador Dog" (https://sketchfab.com/3d-models/labrador-dog-1f56cfbab07e4fe49b5d9e521c82073a) by kenchoo (https://sketchfab.com/kenchoo) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+
+----------------------
+
+zombie
+Model Information:
+* title:	Zombie
+* source:	https://sketchfab.com/3d-models/zombie-78586f1b229b49c0bc49ee88f170e1e1
+* author:	arthur.feliperodrigues1712 (https://sketchfab.com/arthur.feliperodrigues1712)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Zombie" (https://sketchfab.com/3d-models/zombie-78586f1b229b49c0bc49ee88f170e1e1) by arthur.feliperodrigues1712 (https://sketchfab.com/arthur.feliperodrigues1712) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+
+----------------------
+
+forest
+Model Information:
+* title:	Pine Forest at Sunset
+* source:	https://sketchfab.com/3d-models/pine-forest-at-sunset-bef89be6b189456095db79107045d726
+* author:	Jagobo (https://sketchfab.com/Jagobo)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Pine Forest at Sunset" (https://sketchfab.com/3d-models/pine-forest-at-sunset-bef89be6b189456095db79107045d726) by Jagobo (https://sketchfab.com/Jagobo) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+
+----------------------
+
+pine
+Model Information:
+* title:	Pine tree
+* source:	https://sketchfab.com/3d-models/pine-tree-e52769d653cd4e52a4acff3041961e65
+* author:	Andriy Shekh (https://sketchfab.com/sheh5262)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Pine tree" (https://sketchfab.com/3d-models/pine-tree-e52769d653cd4e52a4acff3041961e65) by Andriy Shekh (https://sketchfab.com/sheh5262) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+
+----------------------
+
+vesta
+Model Information:
+* title:	Lada Vesta
+* source:	https://sketchfab.com/3d-models/lada-vesta-3c333139feb744ae9d36767c0e9cabfd
+* author:	tiunov.se (https://sketchfab.com/tiunov.se)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Lada Vesta" (https://sketchfab.com/3d-models/lada-vesta-3c333139feb744ae9d36767c0e9cabfd) by tiunov.se (https://sketchfab.com/tiunov.se) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+
+----------------------
+
+vaz
+Model Information:
+* title:	Lada (VAZ) 2110
+* source:	https://sketchfab.com/3d-models/lada-vaz-2110-6622502050b548ef85796886f319dc99
+* author:	nyranarod (https://sketchfab.com/nyranarod)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works
+
+
+----------------------
+
+mercedes
+Model Information:
+* title:	Mercedes-Benz SLK 55 AMG (2012)
+* source:	https://sketchfab.com/3d-models/mercedes-benz-slk-55-amg-2012-03096be29f4d4e5ca3b7291207c002c8
+* author:	geyges (https://sketchfab.com/geyges)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works
+
+
+----------------------
+
+grass
+Model Information:
+* title:	Grass
+* source:	https://sketchfab.com/3d-models/grass-f2f2bddb2728483a9105c5f5114eb15e
+* author:	Cosmic_dust (https://sketchfab.com/Cosmic_dust)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Grass" (https://sketchfab.com/3d-models/grass-f2f2bddb2728483a9105c5f5114eb15e) by Cosmic_dust (https://sketchfab.com/Cosmic_dust) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+
+----------------------
+
+pantsir
+Model Information:
+* title:	Russian Pantsir-S1
+* source:	https://sketchfab.com/3d-models/russian-pantsir-s1-6a32352b302848508774583a58659211
+* author:	42manako (https://sketchfab.com/42manako)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Russian Pantsir-S1" (https://sketchfab.com/3d-models/russian-pantsir-s1-6a32352b302848508774583a58659211) by 42manako (https://sketchfab.com/42manako) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+
+----------------------
+
+zil
+Model Information:
+* title:	ZIL-131 RSP
+* source:	https://sketchfab.com/3d-models/zil-131-rsp-6fb7b346161b46c8bf3013db18e20365
+* author:	Muhamad Mirza Arrafi (https://sketchfab.com/nazidefenseforceofficial)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "ZIL-131 RSP" (https://sketchfab.com/3d-models/zil-131-rsp-6fb7b346161b46c8bf3013db18e20365) by Muhamad Mirza Arrafi (https://sketchfab.com/nazidefenseforceofficial) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+
+----------------------
+
+tank
+Model Information:
+* title:	T-72B3 Main Battle Tank
+* source:	https://sketchfab.com/3d-models/t-72b3-main-battle-tank-dfe130dfce724c30958cec51f2bd86b7
+* author:	Muhamad Mirza Arrafi (https://sketchfab.com/nazidefenseforceofficial)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "T-72B3 Main Battle Tank" (https://sketchfab.com/3d-models/t-72b3-main-battle-tank-dfe130dfce724c30958cec51f2bd86b7) by Muhamad Mirza Arrafi (https://sketchfab.com/nazidefenseforceofficial) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+
+----------------------
+
+btr
+Model Information:
+* title:	BTR-60PAI
+* source:	https://sketchfab.com/3d-models/btr-60pai-a62dbd8f55924c79bef7a584c536cc52
+* author:	SISR REPUBLICS (https://sketchfab.com/muhammadmaffazaarfa)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "BTR-60PAI" (https://sketchfab.com/3d-models/btr-60pai-a62dbd8f55924c79bef7a584c536cc52) by SISR REPUBLICS (https://sketchfab.com/muhammadmaffazaarfa) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+
+----------------------
+
+towerA
+Model Information:
+* title:	modern facade tower model
+* source:	https://sketchfab.com/3d-models/modern-facade-tower-model-ffb26077ee524627acaf613517d19f10
+* author:	VertaScan (https://sketchfab.com/VertaScan)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "modern facade tower model" (https://sketchfab.com/3d-models/modern-facade-tower-model-ffb26077ee524627acaf613517d19f10) by VertaScan (https://sketchfab.com/VertaScan) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+
+----------------------
+
+towerB
+Model Information:
+* title:	Cyberpunk building test
+* source:	https://sketchfab.com/3d-models/cyberpunk-building-test-92a9fab2c7e64bccbc0511be0096994e
+* author:	ul1tka (https://sketchfab.com/ul1tka)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Cyberpunk building test" (https://sketchfab.com/3d-models/cyberpunk-building-test-92a9fab2c7e64bccbc0511be0096994e) by ul1tka (https://sketchfab.com/ul1tka) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+
+----------------------
+
+porsche
+Model metadata embedded in the supplied GLB:
+Title: porsche_992_gt3_r
+Author: MattDoesBlender (https://sketchfab.com/MattDoesBlender)
+Source: https://sketchfab.com/3d-models/porsche-992-gt3-r-03ea07f7972648aa9350853b2a1a942a
+License: CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+Preparation changes: duplicate motion-blur/static-rim variants removed, real metre normalization added as an outer wrapper, textures resized to at most 2048 and encoded as WebP. Main high-detail geometry and complete cockpit retained without geometric simplification.
+
+
+----------------------
+
+porsche-look
+New Porsche appearance supplied as 2024_porsche_992_gt3_r.glb
+Title: 2024 Porsche 992 GT3 R
+Author: Dave Love SketchFab (https://sketchfab.com/Tyler_Dave)
+Source: https://sketchfab.com/3d-models/2024-porsche-992-gt3-r-b76c9b2ae2d548c3869426eac4ab8a19
+License recorded in supplied GLB: CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+Preparation: embedded resources and original material properties preserved; textures packed for offline use; duplicate motion blur wheel variants removed; geometry, wheel pivots and cockpit scale retained.
+
+----------------------
+
+plane
+Airplane CRJ-900 Cityjet
+
+This work is based on "Airplane CRJ-900 Cityjet" (https://sketchfab.com/3d-models/airplane-crj-900-cityjet-02c4fa44604243c2bb48db64506a39af) by CityJet Training (https://sketchfab.com/artoud) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/).
+
+Source archive license requires author credit; commercial use is allowed.
+
+Preparation changes: added a uniform metre-normalization wrapper and five empty staging anchors. No original geometry, materials, atlas colours, livery, text or source PNG pixels were altered. No geometry was reduced. Original 4096×4096 PNG retained byte-for-byte.
+
+
+----------------------
+
+audio-engine
+Engine sound supplied by the user as 00361.mp3. Embedded byte-for-byte as engine-user-00361.mp3; constant playback speed while driving and on foot, with distance attenuation. Original recording author and license were not supplied. This replaces the earlier ThePetrolHeart recording in the active game.
+
+----------------------
+
+audio-zombies
+Zomby sfx pack by saturn91 — https://opengameart.org/content/zomby-sfx-pack — CC0. Used original calls 01, 02, 03, 06; in-game volume, panning and slight playback variation.
+
+----------------------
+
+dog-fixed
+Labrador Dog: source kenchoo / CC BY 4.0, as credited above. Game adaptation: original mesh retained; foot IK Walk/Trot/Run/Idle animation clips, no root motion.
+
+----------------------
+
+mercedes-fixed
+Mercedes SLK: supplied geometry and 119 embedded texture images retained; rigid bind pose baked; topology-preserving Meshopt simplification. Game material adaptation: silver paint, charcoal leather/plastic/rubber, unpowered lamps and continuous glass alpha without the foliage cutoff.
+
+----------------------
+
+cloud
+Cloud shell models by Morgan McGuire and Michael Mara (2016), CC0, from Morgan McGuire’s Computer Graphics Archive (https://casual-effects.com/data).
+
+License: https://creativecommons.org/publicdomain/zero/1.0/
+Source: https://casual-effects.com/g3d/data10/index.html
+Download: https://casual-effects.com/g3d/data10/research/model/cloud/cloud.zip
+
+Changes: Triangulated original OBJ quads without geometric reduction. Baked independent uniform normalization for each variant: center0,widthX1,+Yup. Indexed duplicate positions and generated smooth vertex normals; no source normals or UV existed. Applied a shared soft-white rough PBR material because source OBJ carries no material. No extra transparent shells, textures, remote resources, Draco or meshopt decoder requirement.
+
+
+----------------------
+
+ending-music
+User-provided soundtrack: 06. 70K.mp3. Embedded metadata: 70K — Mike Klubnika; album BUCKSHOT ROULETTE; 2023; track 6. Original audio retained without tempo changes, album artwork and metadata removed for the browser copy. Played in the ending with short volume fades; this credit does not assign a new license to the recording.
+
+----------------------
+
+airport
+Airport by mamont nikita (https://sketchfab.com/mamontnikita62), https://sketchfab.com/3d-models/airport-d074ebbb587c4d919707a26e9fb14da9, licensed CC BY4.0 (http://creativecommons.org/licenses/by/4.0/). Changes: metre normalization and removal of fully invisible SketchUp edge lines.
+
+
+----------------------
+
+airport-stability
+Airport stability adaptation: source mamont nikita / CC BY 4.0 (original attribution above). Removed only same-material/same-attributes coincident triangle duplicates; baked geometry into local metres; corrected sub-millimetre sliver winding after Float32 conversion. Upward horizontal paving/paint surfaces at Y0/5 were separated by 4–16 mm; original material values, UVs and all 22 texture images retained. Supplied geometry provides exact clipped wall collision and walkable approach surfaces.
+
+----------------------
+
+airport-display-aircraft
+Airport scene adaptation: removed the decorative motionless airborne aircraft over the far runway (41,552 triangles), preserving airport structures, ground equipment and the evacuation CityJet. Modified airport: 1,212,109 triangles in 118 meshes.
+
+----------------------
+
+man-motion
+Man animation adaptation: the Mcyborg model credited above uses a fitted 17-joint runtime skeleton, blended skin weights, arm/leg IK and world-space foot contacts. Body surfaces covered by the original clothes are hidden to prevent clipping; original clothing textures are retained.
+
+----------------------
+
+map-icons
+Map and radar pictograms: Font Awesome Free 6.7.2 by Fonticons, Inc. https://fontawesome.com. SVG icons licensed CC BY 4.0: https://creativecommons.org/licenses/by/4.0/. Source: https://github.com/FortAwesome/Font-Awesome/tree/6.7.2/svgs/solid. Rendered as monochrome silhouettes with dark outlines.
+
+----------------------
+
+lukoil
+Station supplied by the user as lukoil_station.blend. Converted to offline glTF; original 331,782 triangles, lettering, hoses, bevels and materials retained. Components fitted individually: pump including island 2.10 m, island 0.18 m, store 3.70 m, door 2.25 m, canopy roof 5.81 m, pylon 8 m. Source studio lights, camera and duplicate ground slabs excluded. Planter trees placed clear of the rear wall. Original station locations and save IDs retained; collision bodies and canopy lights match the fitted parts.
+
+----------------------
+
+hero-authored-animation
+Hero idle, walk, jog, sprint and jump: Quaternius Universal Animation Library Standard, CC0 1.0. https://quaternius.com/packs/universalanimationlibrary.html ; official download https://quaternius.itch.io/universal-animation-library . Retargeted onto the supplied man, sampled with quaternion interpolation, speed-aware blending, stride warping and world-space foot contacts. Original male mesh and textures retained.
+
+----------------------
+
+retail-farm-shop
+Farm grocery supplied by the user in 02_Продуктовый_Фермерский.zip (LOD0.glb). Game adaptation: original facade lettering, interior shelves and surface maps; fitted 1.00 × 2.20 m entrance, clear doorway, realistic produce size, removed solid presentation block and duplicate glazing. Embedded WebP textures. No separate source license was supplied.
+
+----------------------
+
+retail-bakery
+Roadside bakery supplied by the user in 03_Пекарня_у_дороги.zip (LOD0.glb). Game adaptation: original building and lettering; fitted 1.00 × 2.20 m entrance, readable sign, bread counters behind the windows, removed solid presentation block and duplicate glazing. Embedded WebP textures. No separate source license was supplied.
+
+----------------------
+
+foliage-repair
+Vegetation adaptation of the supplied forest and pine models credited above: all original forest needle quads and UVs restored, photographic atlas retained as lossless 1024 px WebP, matte alpha-tested foliage with multisample alpha coverage. Pine trunk and crown distribution retained; coarse painted fronds replaced by 821 crossed needle sprays using the supplied forest atlas. Trunk meshes remain efficient; foliage topology is not simplified across separate cards.
+
+----------------------
+
+graphics-pbr-textures
+Photographic PBR textures from Poly Haven, CC0 1.0 (https://polyhaven.com/license): Asphalt 02 by Rob Tuytel — https://polyhaven.com/a/asphalt_02; Brick Wall 001 photographed by Dimitrios Savva, processed by Rob Tuytel — https://polyhaven.com/a/brick_wall_001; Concrete Floor 02 by Rob Tuytel — https://polyhaven.com/a/concrete_floor_02. Albedo and OpenGL normals prepared at up to 1024 px; scalar roughness at 512 px; WebP embedded offline. Physical texture sizes used: asphalt 3 m, brick 1.5 m, concrete 2 m. Forest floor reused from the supplied forest asset, credited above.
+
+----------------------
+
+graphics-rendering
+Game renderer adaptation: Three.js r160 (MIT), WebGL2 linear half-float HDR with resolved logarithmic depth, SSAO with bilateral denoise, multi-resolution HDR bloom, ACES tone mapping once in the output pass, FXAA, stable directional shadows and procedural sky PMREM illumination. Whole-card vegetation LOD retains original near geometry and UVs. Procedural crack decals and folded paper use native game geometry. Browser capability fallback retained.
+
+----------------------
+
+lada-geometry-repair
+VAZ 2110 and Lada Vesta restored from the original supplied glTF files, credited above. VAZ exterior panels, windows, lamp lenses, rims and tyre geometry retain their original topology; only interior/mechanical detail uses standard Meshopt simplification with locked borders and 0.0005 relative error. All Vesta triangles retained. Coordinates compacted at 16 bits without collapsing panels; decoded to metre coordinates before static world transforms. Original UVs and PBR texture assignments retained. Continuous window alpha replaces vegetation-style cutoff; parked-car lights unpowered.
+
+----------------------
+
+tower-facade-repair
+Modern facade tower: VertaScan / CC BY 4.0, original attribution above. Original facade, slabs, mullions, cladding and glass topology preserved (156,964 triangles). Only the dense screen canopy uses standard Meshopt simplification with locked borders and 0.00003 relative error. 1,489,544 triangles in the prepared model. Positions compacted at 16 bits and decoded before world transforms; source UVs retained.
+
+----------------------
+
+meadow-ground-update
+Procedural meadow blades and grass underlay authored in game code. Low upright vertex-coloured blades, three geometry levels, gentle wind and smooth distance transitions. Cached world tiles reuse GPU instance buffers. Ground contact uses the rendered terrain triangles at all four tyres. Native sidewalk and intersection foundations extend below the terrain. Scattered decorative boulders and their collisions removed.
+
+----------------------
+
+dog-hock-repair
+Labrador Dog: kenchoo / CC BY 4.0, original attribution above. Gait clips rebaked with the hind paw orientation anchored to the source rest pose and a bounded hock swing, instead of twisting the distal bone toward a world target. Source mesh, limb lengths, skin weights and materials retained; foot contacts validated over Walk, Trot, Run and Idle.
+
+----------------------
+
+render-streaming-update
+Rendering update: texture upload and day/night material preparation during loading, stable light counts, cached sky probes blended continuously at any driving speed, adaptive-resolution hysteresis, pooled immutable meadow tiles with frustum culling. Hidden tabs stop rendering and sound, and remain paused on return. Main menu animation is limited to 30 fps; driving and the ending retain full refresh rate. Ending uses closed cloud meshes and fog without flat mist or dust sprites; original opaque and glass material flags retained.
+
+----------------------
+
+bus-stop
+City bus shelter supplied by the user in 05_Остановка_городская.zip / LOD0.glb. Original metre-scale geometry and UVs retained: 4.50 × 1.63 m footprint, 2.845 m roof height, 0.4775 m bench seat, 2.4825 m clear headroom. All 59,944 triangles retained; static parts merged into five material meshes; original texture maps resized and embedded as WebP. Architectural glass uses continuous alpha in the browser. No separate author or license information was supplied.
+
+----------------------
+
+smooth-daylight
+Game lighting adaptation: shared smooth sunrise/sunset curve for sky, direct light, fog, headlights, street lamps and exposure. Day, twilight and night PMREM sky probes are prepared during loading and blended continuously at any driving speed, without recapturing on stops. Original daylight clock and saved progress are retained. Junction sidewalk foundations leave all four road approaches open.
+
+----------------------
+
+manual-player-lights
+Game adaptation: removed the procedural first-person hand/crowbar overlay and fallback held prop. Independent manual flashlight and vehicle-light switches on physical KeyL, with locally stored preferences. Front lamps, headlight beams and rear running lamps follow the switch; braking remains independent. First-person flashlight follows mouse yaw and pitch.
+
+Three.js r160, GLTFLoader и алгоритм клонирования SkeletonUtils — MIT; текст лицензии включён в HTML.
