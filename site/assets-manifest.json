@@ -1,6 +1,7 @@
 {
   "version": 1,
-  "gameScriptSha256": "72e6720371867a39169e99b4a6285735427216c3a45b79207858f146b6379e7f",
+  "hashNormalization": "LF",
+  "gameScriptSha256": "bd94aa503d76f893c12107033b7670540baab58e4a4b30b34e595c1d5bc57240",
   "assetCount": 42,
   "totalAssetBytes": 93359166,
   "htmlBytes": 2157152,
