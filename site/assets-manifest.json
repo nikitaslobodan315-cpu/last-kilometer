@@ -1,10 +1,10 @@
 {
   "version": 1,
   "hashNormalization": "LF",
-  "gameScriptSha256": "bd94aa503d76f893c12107033b7670540baab58e4a4b30b34e595c1d5bc57240",
-  "assetCount": 42,
-  "totalAssetBytes": 93359166,
-  "htmlBytes": 2157152,
+  "gameScriptSha256": "5a42bc4761afefc9ab105b5576559e59f594e55063a4dfb2de6c450338419cff",
+  "assetCount": 41,
+  "totalAssetBytes": 84698984,
+  "htmlBytes": 2163750,
   "entries": [
     {
       "group": "world-binary",
@@ -37,16 +37,16 @@
     {
       "group": "world-binary",
       "key": "forest",
-      "path": "assets/world-binary-forest-7e9958ff593e.bin",
-      "bytes": 2989010,
-      "sha256": "7e9958ff593eaad0591000bf18d90bc986871bb6fe2ed20ba4379d4c51b259b2"
+      "path": "assets/world-binary-forest-9a0344e22466.bin",
+      "bytes": 2762841,
+      "sha256": "9a0344e22466552b645602ca6282141506eb1489e50e0392136b369206a2c41c"
     },
     {
       "group": "world-binary",
       "key": "pine",
-      "path": "assets/world-binary-pine-e99c98c00a73.bin",
-      "bytes": 2245506,
-      "sha256": "e99c98c00a73d51d1a336fb99855276ff5b3e4dc31722c8449316316f2708a26"
+      "path": "assets/world-binary-pine-3685f12cf1ba.bin",
+      "bytes": 2242077,
+      "sha256": "3685f12cf1ba37591e366a2dfd87eda6273a6f417bb515b4d21e78c2c78f194e"
     },
     {
       "group": "world-binary",
@@ -68,13 +68,6 @@
       "path": "assets/world-binary-mercedes-36f6a8655f7c.bin",
       "bytes": 7379875,
       "sha256": "36f6a8655f7c15fb7ec575efd1261a7d4a9270945a04b42e3b58904b21a5a533"
-    },
-    {
-      "group": "world-binary",
-      "key": "grass",
-      "path": "assets/world-binary-grass-32fbb44df380.bin",
-      "bytes": 30339,
-      "sha256": "32fbb44df380240e3dd2c2fe9313bb7f99aa189a6d89a1fc40897f657fcd58fc"
     },
     {
       "group": "world-binary",
@@ -107,9 +100,9 @@
     {
       "group": "world-binary",
       "key": "towerA",
-      "path": "assets/world-binary-towerA-0bc5e258a168.bin",
-      "bytes": 10439704,
-      "sha256": "0bc5e258a1682e6fa8ae438b695e7eac5963e471add1123a4280c84e5ed69470"
+      "path": "assets/world-binary-towerA-22d90ad12275.bin",
+      "bytes": 2505548,
+      "sha256": "22d90ad1227586046f035ed245e6b4e91d67aab1d22f88409ea5d5beaa59408c"
     },
     {
       "group": "world-binary",
@@ -149,9 +142,9 @@
     {
       "group": "world-binary",
       "key": "cloud",
-      "path": "assets/world-binary-cloud-fb0827d7ef83.bin",
-      "bytes": 915615,
-      "sha256": "fb0827d7ef838ec446075fa2ae5bf49676025dea564b658914cfbfdfdeef0fff"
+      "path": "assets/world-binary-cloud-6471e61e66fd.bin",
+      "bytes": 449526,
+      "sha256": "6471e61e66fdc881e0dcb35a847914bf6fee7aeb37ea070e4bd53ac70af0460a"
     },
     {
       "group": "world-binary",

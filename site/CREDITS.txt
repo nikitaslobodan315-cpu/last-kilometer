@@ -403,3 +403,8 @@ manual-player-lights
 Game adaptation: removed the procedural first-person hand/crowbar overlay and fallback held prop. Independent manual flashlight and vehicle-light switches on physical KeyL, with locally stored preferences. Front lamps, headlight beams and rear running lamps follow the switch; braking remains independent. First-person flashlight follows mouse yaw and pitch.
 
 Three.js r160, GLTFLoader и алгоритм клонирования SkeletonUtils — MIT; текст лицензии включён в HTML.
+
+----------------------
+
+low-spec-performance / 2026-11-20
+Game adaptation: exact player-car triangle data batched by shared opaque materials; wheels, steering, seats and mirrors kept separate. Original tower facade, floor, glass and cladding topology retained; standard error-bounded Meshopt simplification only on canopy, tree stems and cinematic clouds. Original nearby foliage cards and UVs retained. Imported texture dimensions bounded without changing UVs; CityJet livery remains 4096 pixels. Raw static import copies released after baking, bounded spatial instance buffers, vertex-lit meadow with original density/fades, unused post-processing buffers disabled, pixel budgets and conservative LOW default.
